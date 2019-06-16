@@ -3,3 +3,6 @@ The latest preview for .NET Core 3 (preview-6) has introduced the functionality 
 
 # Read full article
 https://ankitsharmablogs.com/facebook-authentication-and-authorization-in-server-side-blazor-app/
+
+# Execution Demo
+![Alt Text](https://ankitsharmablogs.com/wp-content/uploads/2019/06/BlazorFbAuthExec.gif)
